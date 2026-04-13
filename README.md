@@ -29,7 +29,11 @@ O CSS é uma linguagem de estilo usada para conrtrolar a aparência e o layout d
 A sintaxe do CSS  é formada por regras de estilo, onde cada regra é formada por um seletor e um bloco de declarações. Sendo que, o seletor é usado para selecionar os elementos HTML que receberá as regras de estilo, enquanto as declarações definem as propriedades de estilo e seus valores. Podendo ser representada da seguinte maneira:
 
 seletor {
+  
    propriedade: valor;
+  
    propriedade: valor;
+  
    /*...*/
+   
    }
