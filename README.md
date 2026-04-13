@@ -31,7 +31,9 @@ A sintaxe do CSS  é formada por regras de estilo, onde cada regra é formada po
 seletor {
   
   propriedade: valor;
+  
   propriedade: valor;
+ 
   /*...*/
    
    }
