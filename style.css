@@ -1,0 +1,30 @@
+*{
+    font-family: 'Arial', sans-serif;
+}
+form {
+    display:inline-block;
+}
+body {
+    text-align: center;
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:darkturquoise;
+}
+header{
+    font-size: 69px;
+}
+input{
+    border-radius: 20px;
+    padding:7px
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    border-radius: 20px;
+    padding:7px;   
+}
